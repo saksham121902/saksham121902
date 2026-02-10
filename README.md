@@ -72,20 +72,6 @@
 
 ---
 
-### 🚀 View Dashboard
-
-<p align="center">
-  <a href="https://saksham121902.github.io/saksham121902/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Dashboard-00d4ff?style=for-the-badge&logo=github&logoColor=white" alt="View Dashboard">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">
@@ -96,11 +82,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
----
-
-<div align="center">
-
-**Made with ⚡ and 💜 - Neon Tech Dashboard**
-
-</div>
