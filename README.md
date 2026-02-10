@@ -2,6 +2,8 @@
 
 Neon-themed Git dashboard mockup built with HTML, CSS, and JavaScript. It includes profile-style sections, repo cards, activity timeline, branch health, and a commit heatmap placeholder.
 
+**🚀 [View Dashboard](https://saksham121902.github.io/Saksham121902/)**
+
 ## Files
 
 - index.html
