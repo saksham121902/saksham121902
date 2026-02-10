@@ -20,23 +20,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Welcome Section -->
-<h3 align="center">
-  Hey! I'm <strong>Saksham</strong> 👨‍💻
-</h3>
-
-<p align="center">
-  <strong>B.Tech CSE</strong> student at <strong>UPES, Dehradun</strong> 🎓
-</p>
-
-<p align="center">
-  Passionate about building tech dashboards, exploring web technologies, and creating elegant solutions 🚀
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 ---
 
 ### 📈 Dashboard Statistics
