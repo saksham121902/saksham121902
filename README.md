@@ -13,7 +13,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2300d4ff&size=35&height=100&width=800&lines=Welcome+to+my+profile+👋;I'm+Saksham+Raj;Full-Stack+Developer+%26+Tech+Enthusiast;B.Tech+CSE+%7C+UPES+Dehradun">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2300d4ff&size=35&height=100&width=800&lines=Welcome+to+my+profile+👋;Hey+I'm+Saksham;Full-Stack+Developer+%26+Tech+Enthusiast;B.Tech+CSE+%7C+UPES+Dehradun">
 </p>
 
 <p align="center">
