@@ -56,22 +56,6 @@
 
 ---
 
-### 🎨 Features
-
-- 📊 **Real-time Analytics** - Live GitHub stats and metrics
-- 🔥 **Repository Insights** - Multi-repo dashboard with stats
-- 🌳 **Branch Health Monitoring** - Visual health bars
-- 📈 **Activity Timeline** - Event feed with timestamps
-- 🗓️ **Commit Heatmap** - 12-week activity visualization
-- 🌈 **Neon UI** - Cyberpunk aesthetic with animations
-- ⚙️ **No Build Tools** - Pure HTML/CSS/JavaScript
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">
